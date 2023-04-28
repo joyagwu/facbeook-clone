@@ -64,9 +64,9 @@ const Story = () => {
       </div>
 
       <div className="flex gap-[10px] mt-5 pb-5 overflow-x-auto scrollbar-hide">
-        <div className="w-[152px] shadow-md rounded-[15px] pb-2 shrink-0">
+        <div className="w-[151px] shadow-md rounded-[15px] pb-2 shrink-0">
           <img
-            className="w-[152px] h-[151px] rounded-t-[15px] object-cover"
+            className="w-[151px] h-[151px] rounded-t-[15px] object-cover"
             src={session?.user?.image}
             alt="dp"
           />
