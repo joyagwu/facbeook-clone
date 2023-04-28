@@ -3,7 +3,7 @@ import React from "react";
 const SingleStory = ({ title, img, postImg }) => {
   return (
     <div
-      className={`relative w-[134px] shadow-md rounded-[15px] pb-2 bg-cover shrink-0 ${postImg} singleStory`}
+      className={`relative w-[136px] shadow-md rounded-[15px] pb-2 bg-cover shrink-0 ${postImg} singleStory`}
     >
       <img
         className="w-[40px] h-[40px] rounded-full object-cover outline outline-primary m-[14px]"
