@@ -25,12 +25,12 @@ const Story = () => {
       img: "/Tony.jpg",
       postImg: "bg-[url(/story3.jpg)]",
     },
-    /*{
-      title: "Elon Musk",
-      img: "/elon_musk.jpg",
-      postImg: "bg-[url(/gaming_mouse.jpg)]",
-    },
     {
+      title: "Jumai Jay",
+      img: "/Erinma.jpg",
+      postImg: "bg-[url(/building.jpg)]",
+    },
+    /*{
       title: "Bill Gates",
       img: "/bill_gates.jpg",
       postImg: "bg-[url(/building.jpg)]",
